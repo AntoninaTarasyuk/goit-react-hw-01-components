@@ -1,0 +1,30 @@
+.transactions {
+  max-width: 600px;
+  margin: 20px auto;
+  text-align: center;
+  /* border: 1px solid #dcdcdc; */
+  border-spacing: 0;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.head {
+  background-color: #00bcd5;
+}
+
+.head_item {
+  padding: 15px;
+  font-size: 14px;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.tabbody:nth-child(odd) {
+  background-color: #f4f4f4;
+}
+
+.row_item {
+  padding: 15px;
+  color: #646464;
+  text-transform: capitalize;
+}
